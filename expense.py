@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import as plt  # <- Required for pie chart
+import matplotlib.pyplot as plt
 
 # Modern, aesthetic CSS
 st.markdown("""
